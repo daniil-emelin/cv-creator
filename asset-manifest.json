@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/frontend-corner-cv-creator/static/css/main.682999b0.css",
+    "main.js": "/frontend-corner-cv-creator/static/js/main.56df075c.js",
+    "index.html": "/frontend-corner-cv-creator/index.html",
+    "main.682999b0.css.map": "/frontend-corner-cv-creator/static/css/main.682999b0.css.map",
+    "main.56df075c.js.map": "/frontend-corner-cv-creator/static/js/main.56df075c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.682999b0.css",
+    "static/js/main.56df075c.js"
+  ]
+}
