@@ -1,4 +1,4 @@
-import { RouterProvider, createBrowserRouter } from "react-router-dom";
+import { RouterProvider, createHashRouter } from "react-router-dom";
 
 import { Layout } from "./components";
 
@@ -6,7 +6,7 @@ import { CVFormPage, CVListPage, CVPreviewPage, HomePage } from "./pages";
 
 import "./App.css";
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     element: <Layout withContainer />,
     children: [
