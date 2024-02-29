@@ -1,6 +1,6 @@
 {
   "name": "frontend-corner-cv-creator",
-  "homepage": "https://daniil-emelin.github.io/frontend-corner-cv-creator",
+  "homepage": "https://daniil-emelin.github.io/cv-creator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
