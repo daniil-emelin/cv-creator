@@ -1,0 +1,1 @@
+export { CVListPage } from "./CVListPage";
